@@ -10,5 +10,10 @@ public class App
     {
         //注释
         System.out.println( "Hello World!" );
+        
+        System.out.println( "Hello World!" );
+        System.out.println( "Hello World!" );
+        System.out.println( "Hello World!" );
+        /////
     }
 }
