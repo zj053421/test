@@ -15,5 +15,7 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println(" class 1");
         System.out.println(" class 1");
+        System.out.println(" class 2");
+        System.out.println(" class 3");
     }
 }
