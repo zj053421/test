@@ -30,6 +30,7 @@ public class Test1 {
 		//dd//
 		//dd//
 		//dd
+		//ddd//dd/dd/dd/d/d/d
   }
 
 }
