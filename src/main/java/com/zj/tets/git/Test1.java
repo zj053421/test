@@ -26,6 +26,9 @@ public class Test1 {
 		///fffffffffddddd
 		//ffff
 		//fffff
+		//dd//
+		//dd//
+		//dd
   }
 
 }
